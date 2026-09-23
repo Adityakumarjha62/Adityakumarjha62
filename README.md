@@ -2,33 +2,60 @@
 
 ### B.Tech CSE Student | Aspiring Software Engineer
 
-I'm a B.Tech Computer Science student interested in software development and building practical projects.
+I'm a B.Tech Computer Science student interested in software development, backend development and building practical web applications.
 
-### 🛠️ Skills
+---
 
-* **Programming:** Python
+## 🛠️ Technical Skills
+
+* **Programming:** Python, SQL
 * **Web Development:** HTML, CSS, JavaScript, Flask
-* **Database:** SQL, MySQL
-* **Tools:** Git, GitHub
+* **Database:** MySQL, SQLite
+* **Backend:** REST APIs
+* **Tools:** VS Code, Git, GitHub
 
+---
 
-### 🚀 Projects
+## 🚀 Projects
 
-* **ShareBit** — File Sharing Platform using Python, Flask, HTML, CSS and JavaScript.
-* **E-Commerce Project** — Web-based e-commerce application using Python, Flask and MySQL.
+### 🛒 Advanced E-Commerce Platform
 
-### 📚 Currently Learning
+**Python | Flask | MySQL | HTML | CSS | JavaScript | REST API**
+
+Full-stack e-commerce web application featuring user authentication, product management, shopping cart, wishlist, checkout, order management, admin dashboard and REST APIs.
+
+### 🍲 ShareBite – Hyperlocal Food Donation & Surplus Management Network
+
+**Python | Flask | SQLite | HTML | CSS | JavaScript**
+
+Food donation platform connecting donors and recipients with food listing, request management, role-based dashboards and user authentication.
+
+---
+
+## 📚 Currently Learning
 
 * JavaScript
 * MySQL
 * Backend Development
+* REST APIs
 * Software Engineering
 
-### 🎯 Career Goal
+---
 
-Aspiring Software Engineer focused on improving my programming, problem-solving and development skills.
+## 🎯 Career Goal
 
-### 📫 Connect With Me
+Aspiring Software Engineer focused on improving programming, problem-solving and software development skills.
 
-* GitHub: [Aditya Kumar Jha](https://github.com/)
+---
+
+## 📫 Connect With Me
+
+* GitHub: [Aditya Kumar Jha](https://github.com/Adityakumarjha62)
 *Email:jadityakumar5@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
+
