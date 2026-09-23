@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aditya Kumar Jha 👋
 
-<!--
-**Adityakumarjha62/Adityakumarjha62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student interested in software development and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* **Programming:** Python
+* **Web Development:** HTML, CSS, JavaScript, Flask
+* **Database:** SQL, MySQL
+* **Tools:** Git, GitHub
+
+
+### 🚀 Projects
+
+* **ShareBit** — File Sharing Platform using Python, Flask, HTML, CSS and JavaScript.
+* **E-Commerce Project** — Web-based e-commerce application using Python, Flask and MySQL.
+
+### 📚 Currently Learning
+
+* JavaScript
+* MySQL
+* Backend Development
+* Software Engineering
+
+### 🎯 Career Goal
+
+Aspiring Software Engineer focused on improving my programming, problem-solving and development skills.
+
+### 📫 Connect With Me
+
+* GitHub: [Aditya Kumar Jha](https://github.com/)
+*Email:jadityakumar5@gmail.com
