@@ -39,6 +39,7 @@ Food donation platform connecting donors and recipients with food listing, reque
 * Backend Development
 * REST APIs
 * Software Engineering
+* Data analytics
 
 ---
 
